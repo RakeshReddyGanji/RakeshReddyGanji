@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RakeshReddyGanji
 - 👀 I’m interested in AI, Machine learning, Data Science, Python
 - 🌱 I’m currently learning Data science and Python
-- 💞️ I’m looking to collaborate on AI, Machine Learning and data Science projects
+- 💞️ I’m looking to collaborate on AI, Machine Learning and Data Science projects
 - 📫 How to reach me, email:rakeshganji6@gmail.com
 
 <!---
